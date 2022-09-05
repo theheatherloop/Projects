@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Carnivorous Plants</title>
+		<meta charset="UTF-8">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="CSS/one_page_website.css">
+		<script src="JS/one_page_website.js"></script>
+	</head>
+	<body>
+
+		<div class="header">
+			<h1 style: "font-size:54px">Carnivorous Plants</h1>
+		</div>
+		
+		<!-- NAV -->
+		<div class="topnav">
+			<a href="#home" id="link">HOME</a>
+			<a href="#gallery">GALLERY</a>
+			<a href="#contact">CONTACT</a>
+		</div>
+		<!-- END NAV -->
+		
+		<!-- HOME -->
+		<div id="home" class="home">
+			<div class="flex_head">
+				<p>What the heck are they!?! 
+					<br>Carnivorous plants are plants that derive some or most of their nutrients from trapping and consuming animals, typically insects and other arthropods.
+					<br>
+				<div class="flex_bod">
+					<p>What to learn more?
+					<br>Check out this interesting and hilarous video:
+					<br></p>
+					<div class="flex_video">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/Hzk1bM2vVFU" title="YouTube video player" 
+					frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>			</div>
+				</div>
+			</div>
+		</div>
+		<!-- END HOME -->
+		
+		<!--GALLERY-->
+		<section  id="gallery">
+
+			<h1>Gallery</h1>
+
+			<div class="row">
+				<div class="column">
+				  <img src="Thumbs\Thumb_1.jpeg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+				</div>
+
+				<div class="column">
+				  <img src="Thumbs\Thumb_2.jpeg" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+				</div>
+
+				<div class="column">
+				  <img src="Thumbs\Thumb_3.jpeg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+				</div>
+
+				<div class="column">
+				  <img src="Thumbs\Thumb_4.jpeg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+				</div>
+
+			  	<div class="column">
+					<img src="Thumbs\Thumb_5.jpeg" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+			  	</div>
+
+				<div class="column">
+					<img src="Thumbs\Thumb_6.jpeg" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+				</div>
+
+				<div class="column">
+					<img src="Thumbs\Thumb_7.jpeg" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+				</div>
+				
+				<div class="column">
+					<img src="Thumbs\Thumb_8.jpg" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+				</div>
+			</div>
+
+			<div class="modal" id="myModal"> 
+
+				<span class="close cursor" onclick="closeModal()">&times;</span>
+
+				<div class="modal-content">
+
+					<!--PHOTO CONTAINER 1-->
+					<div class="mySlides">
+						<div class="numbertext">1 / 8</div>
+						<img src="Thumbs\Thumb_1.jpeg" alt="Venus Flytrap" width=100%>
+					</div>
+					<!--PHOTO CONTAINER 1-->
+
+					<!--PHOTO CONTAINER 2-->
+					<div class="mySlides">
+						<div class="numbertext">2 / 8</div>
+						<img src="Thumbs\Thumb_2.jpeg" alt="Tropical highland pitcher plants" width=100%>
+					  </div>
+					<!--PHOTO CONTAINER 2-->
+
+					<!--PHOTO CONTAINER 3-->
+					<div class="mySlides">
+						<div class="numbertext">3 / 8</div>
+						<img src="Thumbs\Thumb_3.jpeg" alt="North American pitcher plants" width=100%>
+					  </div>
+					<!--PHOTO CONTAINER 3-->
+					
+					<!--PHOTO CONTAINER 4-->
+					<div class="mySlides">
+						<div class="numbertext">4 / 8</div>
+						<img src="Thumbs\Thumb_4.jpeg" alt="bladderwort plant" width=100%>
+					  </div>
+					<!--PHOTO CONTAINER 4-->
+					
+					<!--PHOTO CONTAINER 5-->
+					<div class="mySlides">
+						<div class="numbertext">5 / 8</div>
+						<img src="Thumbs\Thumb_5.jpeg" alt="sundew plant" width=100%>
+					  </div>
+					<!--PHOTO CONTAINER 5-->
+					
+					<!--PHOTO CONTAINER 6-->
+					<div class="mySlides">
+						<div class="numbertext">6 / 8</div>
+						<img src="Thumbs\Thumb_6.jpeg" alt="butterworts plant" width=100%>
+					</div>
+					<!--PHOTO CONTAINER 6-->
+					
+					<!--PHOTO CONTAINER 7-->
+					<div class="mySlides">
+						<div class="numbertext">7 / 8 </div>
+						<img src="Thumbs\Thumb_7.jpeg" alt="tropical sundew" width=100%>
+					</div>
+					<!--PHOTO CONTAINER 7-->
+					
+					<!--PHOTO CONTAINER 8-->
+					<div class="mySlides">
+						<div class="numbertext">8 / 8</div>
+						<img src="Thumbs\Thumb_8.jpg" alt="Tropical Pitcher Plant" width=100%>
+						</div>
+					</div>
+					<!--PHOTO CONTAINER 8-->
+					 
+					<!-- Next/previous controls -->
+					<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+					<a class="next" onclick="plusSlides(1)">&#10095;</a>
+				
+					<!-- Caption text -->
+					<div class="caption-container">
+					<p id="caption"></p>
+					</div>
+				
+					<!-- Thumbnail image controls -->
+					<div class="column">
+						<img class="demo" src="Thumbs\Thumb_1.jpeg" style="width:100%" onclick="currentSlide(1)" alt="Venus Flytrap">
+					</div>
+				
+					<div class="column">
+						<img class="demo" src="Thumbs\Thumb_2.jpeg" style="width:100%" onclick="currentSlide(2)" alt="Tropical highland pitcher plants">
+					</div>
+				
+					<div class="column">
+						<img class="demo" src="Thumbs\Thumb_3.jpeg" style="width:100%" onclick="currentSlide(3)" alt="North American pitcher plants">
+					</div>
+				
+					<div class="column">
+						<img class="demo" src="Thumbs\Thumb_4.jpeg" style="width:100%" onclick="currentSlide(4)" alt="bladderwort plant">
+					</div>
+
+					<div class="column">
+						<img class="demo" src="Thumbs\Thumb_5.jpeg" style="width:100%" onclick="currentSlide(5)" alt="sundew plant">
+					</div>
+					
+					<div class="column">
+						<img class="demo" src="Thumbs\Thumb_6.jpeg" style="width:100%" onclick="currentSlide(6)" alt="butterworts plant">
+					</div>
+					
+					<div class="column">
+						<img class="demo" src="Thumbs\Thumb_7.jpeg" style="width:100%" onclick="currentSlide(7)" alt="tropical sundew">
+					</div>
+					
+					<div class="column">
+						<img class="demo" src="Thumbs\Thumb_8.jpg" style="width:100%"  onclick="currentSlide(8)" alt="Tropical Pitcher Plant">
+					</div>
+
+				</div>
+
+			</div>
+
+		</section>
+		<!--GALLERY-->
+		
+		<!--Contact-->
+		<section id="contact">
+			<div class="contact">
+				<div>
+					<h1>Contact Us </h1>
+					<p>Please provide your basic contact information below.</p>
+				</div>
+
+				<div class="contact_form">
+
+					<form action="/action_page.php">
+						<label for="fname">First Name</label>
+						<input type="text" id="fname" name="firstname" placeholder="Your name.."><br>
+
+						<label for="lname">Last Name</label>
+						<input type="text" id="lname" name="lastname" placeholder="Your last name.."><br>
+
+						<label for="email">Your Email</label>
+						<input type="text" id="email" name="email" placeholder="Your email.."><br>
+					  
+						<textarea>Your message here</textarea><br>
+						
+						<input type="submit" value="Submit">
+					  </form>
+
+				</div>
+				
+			</div>
+		</section>
+		<!--END CONTACT->
+		
+		<!--FOOTER-->
+		<div>
+			Heather$ &nbsp;\&nbsp; &copy; 2022
+		</div>
+		<!--END FOOTER-->
+	
+	</body>
+</html>

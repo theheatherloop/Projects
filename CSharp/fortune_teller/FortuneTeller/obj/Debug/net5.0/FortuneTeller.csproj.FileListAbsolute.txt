@@ -1,0 +1,16 @@
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\bin\Debug\net5.0\FortuneTeller.exe
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\bin\Debug\net5.0\FortuneTeller.deps.json
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\bin\Debug\net5.0\FortuneTeller.runtimeconfig.json
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\bin\Debug\net5.0\FortuneTeller.runtimeconfig.dev.json
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\bin\Debug\net5.0\FortuneTeller.dll
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\bin\Debug\net5.0\ref\FortuneTeller.dll
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\bin\Debug\net5.0\FortuneTeller.pdb
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\FortuneTeller.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\FortuneTeller.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\FortuneTeller.AssemblyInfo.cs
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\FortuneTeller.dll
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\ref\FortuneTeller.dll
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\FortuneTeller.pdb
+C:\C-Sharp-Projects\FortuneTeller\FortuneTeller\obj\Debug\net5.0\FortuneTeller.genruntimeconfig.cache

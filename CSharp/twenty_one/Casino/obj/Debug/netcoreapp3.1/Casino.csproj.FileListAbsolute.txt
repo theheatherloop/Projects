@@ -1,0 +1,5 @@
+C:\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
+C:\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
