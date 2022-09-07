@@ -1,0 +1,62 @@
+
+.box1 {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgb(200, 183, 142);
+    border: 1px solid rgb(200, 183, 142);
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(129, 129, 129, 0.925);
+    font: ultra-condensed bolder 12pt 'New Century Schoolbook', 'TeX Gyre Schola', serif;
+    height: 490px;
+    width: 300px;
+    padding: 0.5em;
+
+}
+.h3 { 
+    font: bolder 25pt 'Carattere', cursive;
+    border-radius: 10px;
+    text-indent: 16px;
+    text-shadow: 2px 2px 3px #936d43;
+}
+img{
+    border-radius: 10px;
+    border-color: #5c5d45;
+    border-style: outset;
+    box-shadow: 2px 2px 2px #5c5d45;
+
+}
+.box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: 1px solid #ffe698;
+    border-style: outset;
+    border-radius: 25px;
+    background-color: rgba(249, 255, 253, 0.4);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 7px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    height: 200px;
+    font-size: 9pt;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 1em;
+
+}
+.box3 {
+    font-style:  italic;
+    font-size:  9pt;
+    font-weight: 500;
+    font-family:  'Times New Roman', Times, serif;
+    
+}
+li{
+    list-style: none;
+    font-stretch :ultra-condensed;
+
+}
+li span{
+    font-weight:900;
+    font-stretch: ultra-condensed;
+}
