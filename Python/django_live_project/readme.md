@@ -31,41 +31,43 @@ Create a new app for the project starting with the homepage that includes:
 	- Title
 	- Footer(Optional)
 
-![story 1](./images/story1.png)
-![add page](./images/home.png)
+![story 1](images/story1.PNG)
+![add page](images/home.PNG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Story Two
 Create a model for your database, user should be able to add to the database through the template. 
 
-![story 2](./images/story2.png)
-![add page](./images/add.png)
+<img align="center" src="/images/story2.PNG" alt="story 2">
+
+
+![add page](/images/add.PNG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Story Three
 Add a functioning page that lists the items in the database.
 
-![story 3](./images/story3.png)
-![archive page](./images/archive.png)
+![story 3](/images/story3.PNG)
+![archive page](/images/archive.PNG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Story Four
 details page that will show the details of any single item from within the database, as selected by the user
 
-![story 4](./images/story4.png)
-![details page](./images/details.png)
+![story 4](/images/story4.PNG)
+![details page](/images/details.PNG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Story Five
 Include edit and delete functions for the user to modify the database
 
-![story 5](./images/story5.png)
-![update page](./images/update.png)
-![delete page](./images/delete.png)
+![story 5](/images/story5.PNG)
+![update page](/images/update.PNG)
+![delete page](/images/delete.PNG)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
