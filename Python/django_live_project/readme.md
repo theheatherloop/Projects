@@ -45,6 +45,7 @@ This project is a interactive website for managing one's collections of things r
 > - HTML/CSS
 > - Agile/Scrum Methodology
 > - Azure DevOps
+> - PyCharm
 > - Git Version Control
 
 <br/>
