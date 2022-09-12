@@ -60,11 +60,7 @@ This project is a interactive website for managing one's collections of things r
 <br/>
 
 ## Story One
-Create a new app for the project starting with the homepage that includes:
-	- Navbar
-	- Background
-	- Title
-	- Footer(Optional)
+Create a new app for the project starting with the homepage that includes: -Navbar -Background -Title -Footer(Optional)
 
 <p align="center"><img align="center" src="images/story1.PNG" alt="story1"></p>
 
