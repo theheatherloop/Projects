@@ -1,12 +1,10 @@
 <a name="readme-top"></a>
 
-<h3 align="center">C# Live Project</br>Code Summary</h3>
+<h1 align="center">C# Live Project</br>Code Summary</h1>
 
-  <p align="center">
- This project was a web application for a theatre in Portland, OR.   <br />
-  
-  </p>
-</div>
+  <p align="center">This project was a web application for a theatre in Portland, OR.<br/></p>
+
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -29,6 +27,8 @@
   </ol>
 </details>
 
+<br>
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -36,6 +36,8 @@
 Each team was assigned a section of the site to work on which consisted of the rentals, production, and a blog. I was part of the production team. We held a sprint planning meeting on the first day, daily scrum meetings, and a code retrospective at the end of the sprint. In order to pass this project I was required to have 3 stories completed and approved by the scrum master.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
 
 ## Built With
 
@@ -50,6 +52,8 @@ Each team was assigned a section of the site to work on which consisted of the r
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<br/>
+
 <!-- CODE SUMMARY -->
 
 ## Code Summary
@@ -59,6 +63,8 @@ Each team was assigned a section of the site to work on which consisted of the r
         <li><a href="story-two">Story Two</a></li>
         <li><a href="story-three">Story Three</a></li>
 </ul>
+
+<br/>
 
 ## Story One
 
@@ -70,8 +76,9 @@ For the first story I was asked to create a form that takes the User's first and
 
 <p><img src="images/contact.png" alt="contact page"width = "800"></p>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
 
 ## Story Two
 There were two parts to this story. First, I created a model for the productions section of the site using the following schema:
@@ -89,6 +96,8 @@ There were two parts to this story. First, I created a model for the productions
   </tr>
 </table>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br/>
 
 ## Story Three
 For the final story I was tasked with styling the Create and Edit pages: 
@@ -110,6 +119,8 @@ For the final story I was tasked with styling the Create and Edit pages:
          <img src="images/input.png" alt="input"width = "400px">
 </ul>
 
+<br/>
+
 ### Finished Create and Edit Pages
 
 <table>
@@ -119,6 +130,9 @@ For the final story I was tasked with styling the Create and Edit pages:
     </tr> 
 </table>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<br/>
 
 
 ---
@@ -133,5 +147,3 @@ For the final story I was tasked with styling the Create and Edit pages:
 <a href="https://twitter.com/theheatherloop"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="https://www.discord.com/users/theheatherloop#1568"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"alt="Discord"/></a>
 </p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
