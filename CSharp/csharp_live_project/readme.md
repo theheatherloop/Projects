@@ -19,7 +19,7 @@
       </ul>
     </li>
     <li>
-      <a href="#Code Summary">Code Summary</a>
+      <a href="#code-summary">Code Summary</a>
       <ul>
         <li><a href="#story-one">Story One</a></li>
         <li><a href="story-two">Story Two</a></li>
