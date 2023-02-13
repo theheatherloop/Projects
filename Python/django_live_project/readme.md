@@ -33,7 +33,7 @@ This project is a interactive website for managing one's collections of things r
 
 ## Project Overview
 
->During a two week sprint I worked along side my peers to create a place to track our respective hobbies. It started with a "sprint planning" meeting, in which we were >introduced to the project, general guidelines and best practices. We attended a daily "scrum meeting" where each of us shared what we worked on last, what tasks they >expect to complete by the next scrum, and any roadblocks we faced. In order to  successfully pass this project, I was expected to complete a total of four stories >according to the scrum master's specifications. The last day of the sprint our team held a "code retrospective" in which we shared what was learned during the sprint, >what still need to improved, and how what was learned that could be applied in the future.
+During a two week sprint I worked along side my peers to create a place to track our respective hobbies. It started with a "sprint planning" meeting, in which we were introduced to the project, general guidelines and best practices. We attended a daily "scrum meeting" where each of us shared what we worked on last, what tasks they expect to complete by the next scrum, and any roadblocks we faced. In order to  successfully pass this project, I was expected to complete a total of four stories according to the scrum master's specifications. The last day of the sprint our team held a "code retrospective" in which we shared what was learned during the sprint, what still need to improved, and how what was learned that could be applied in the future.
 
 <br/>
 
