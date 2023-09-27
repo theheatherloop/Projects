@@ -10,6 +10,7 @@ Explore a collection of my web design endeavors, where I've crafted a series of 
 - Final Fantasy IX Site
 - Movie Theater Site
 - Personal Portfolio
+- Trading Card
 <br/>
 
 ### Final Fantasy IX Site
@@ -22,3 +23,8 @@ Explore a collection of my web design endeavors, where I've crafted a series of 
 
 ### Personal Portfolio
 >Check of my digital portfolio with this stylish starting point. Crafted with meticulous CSS styling, this portfolio sets the stage for showcasing my talents and accomplishments in a visually appealing manner.
+<br/>
+
+### Trading Card
+>Explore the fascinating world of jaguars with this detailed trading card. 
+<br/>
