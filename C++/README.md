@@ -1,5 +1,5 @@
 # C++ Projects
-Some small projects I made using C# and .NET Framework
+Some small projects I made using C++
 
 
  <br/>
