@@ -14,18 +14,20 @@ Some small projects I made using C# and .NET Framework
 <br/>
 
 ### Fortune Teller 
->A very simplistic console application that was created to pracitice some fundamentals such as an array of integers, strings and a list of strings. Pick a number to get >your daily fortune, and another to get your monthly fourtune. Guaranteed to be 100% accurate! :)
+>"Fortune Teller" is a minimalist console application designed as a playful exercise in fundamental programming concepts. Users can select a number to receive their daily or monthly fortune, providing a lighthearted and 100% totally accurate experience. :)>It incorporates elements like integer arrays, strings, and string lists to showcase programming skills. 
 <br/>
 
 
 ### TwentyOne
->A console application to play popular Casino games. Thefirst to be added was the classic card game Blackjack. It features the ability to add funds and place bets on >each game, until your account reaches 0 of course! This application has been designed so that more games and be added in the future!
+>A versatile console application that offers popular casino games, starting with the classic card game, Blackjack. Players can manage their virtual funds, place bets, and enjoy the thrill of the casino. >This application has been thoughtfully developed with the flexibility to expand its game offerings in the future, providing an immersive gaming experience.
 <br/>
 
 ### Car Insurance
-> An MVC we appication that mimics a car insurance qoute website. It takes users input and calculates a qoute based on business logic. An Admin page has been included > > that allows staff the ability to view all of the quotes.
+>A web-based MVC application that emulates a car insurance quotation platform. Users can input their details, and the application calculates insurance quotes based on predefined business logic. >Additionally, an admin page empowers staff to access and manage all submitted quotes efficiently, ensuring a seamless user experience.
+Student
 <br/>
 
 ### Student
-> Created a basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
-<br/>
+>A foundational Entity Framework Code-First console application that demonstrates the creation of a student database. It includes a single student entry, serving as a basic example of database management and Entity Framework implementation.
+ <br/>
+

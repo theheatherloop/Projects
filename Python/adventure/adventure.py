@@ -37,21 +37,21 @@ def right_door(items):
 
 def right_room(items):
     print_pause("what would you like to do? (Enter 1, 2, or 3\n")
-    r_choice = valid_input("1. Interupt them and ask for the key\n"
-                           "2. Quietly search the foot locker in the corner of"
-                           "the room\n"
-                           "3. Back out of the room slowly\n", ["1", "2", "3"])
+    r_choice = valid_input("1. Interrupt them and ask for the key\n"
+                              "2. Quietly search the foot locker in the corner of"
+                              "the room\n"
+                              "3. Back out of the room slowly\n", ["1", "2", "3"])
     if r_choice == "1":
-        interupt(items)
+        interrupt(items)
     elif r_choice == "2":
         locker(items)
     elif r_choice == "3":
         leave_room(items)
 
 
-def interupt(items):
+def interrupt(items):
     print_pause("You reluctantly ask the group for a key..\n")
-    print_pause("At that momment a scary demon appears and starts walking"
+    print_pause("At that moment a scary demon appears and starts walking"
                 "toward"
                 "you..\n")
     print_pause("Looks like you were just in time to become a sacrifice\n")
@@ -92,7 +92,7 @@ def front_door(items):
                         "start feeling guilty\n")
             print_pause("You're so engrossed in your thoughts you failed to"
                         "notice the Semi truck \n")
-            print_pause("heading straight for yous blarring his horn. He slams"
+            print_pause("heading straight for yous blaring his horn. He slams"
                         "into you, killing you instantly\n")
             print_pause("You Lose!\n")
             play_again()

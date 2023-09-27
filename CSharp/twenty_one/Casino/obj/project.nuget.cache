@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p7NJR33HoNHPhPDKO35+4d8DM7ID9DVubdyqAfpciRmqvyw2qT8BvI8iABTJBA82fG3d7HR7EFkNzTNSNpkYoA==",
+  "dgSpecHash": "pY52mK2IgtBRq69K/X7Y/oZ5V84zElAsstngyFkw2rRLArkAm8BUqUpNFgna9HtfbEh+tCzUkHDKwsrKTZs/7g==",
   "success": true,
-  "projectFilePath": "C:\\C-Sharp-Projects\\TwentyOne\\Casino\\Casino.csproj",
+  "projectFilePath": "E:\\Projects\\CSharp\\twenty_one\\Casino\\Casino.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

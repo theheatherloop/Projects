@@ -6,6 +6,11 @@
 </p>
 
 
+## C++
+
+- Icosahedron Roll
+
+
 ## C#
 
 - Fortune Teller

@@ -1,6 +1,5 @@
 # JavaScript-Projects
-Some small projects I made while learning JavaScript
-
+Here are a few modest projects I developed during my journey of learning JavaScript.
 
 <br/>
 
@@ -9,6 +8,7 @@ Some small projects I made while learning JavaScript
 - Pizza Menu
 - Tic-Tac-Toe Game
 - Calculator
+- Pixel Art Maker
 <br/>
 
 ### Pizza Menu
@@ -21,3 +21,7 @@ Some small projects I made while learning JavaScript
 
 ### Calculator
 >Users can add, subtract, multiply, and divide on this sleek yet colorful 4 function calculator.
+
+### Pixel Art Maker
+>This pixel art web app is a creative online tool that allows users to design intricate images pixel by pixel. It provides a grid-based canvas where users can select and apply individual colors to each pixel, enabling the creation of detailed and retro-style pixel art. 
+<br/>
