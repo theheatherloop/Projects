@@ -1,22 +1,6 @@
 
-<table border="0">
-<tr>
+  <h1 align="center">Projects <img align="top" width="60px" alt="Gif" src="https://media1.giphy.com/media/kAm4u0lhDCmXnugz6p/200.webp?cid=ecf05e47qebwx0kiigvzrvjn6b5708lbo8ka9xno981kbkzu&ep=v1_stickers_search&rid=200.webp&ct=ts"/> </h1>
   
-  
-<td valign="top" border="0">
-  
-# Projects
-
-</td>
-<td valign="top" border="0">
-<img src="https://i.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.webp" width=75 align=center>
-</td>
-
-</tr>
-</table>
-<br>
-
-
 Delve into my personal coding projects, born from my relentless pursuit of knowledge and skills. These creations mark the milestones in my coding journey, each project a testament to my dedication and passion for the craft. 
 
 
