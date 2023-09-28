@@ -1,4 +1,22 @@
+
+<table border="0">
+<tr>
+  
+  
+<td valign="top" border="0">
+  
 # Projects
+
+</td>
+<td valign="top" border="0">
+<img src="https://i.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.webp" width=75 align=center>
+</td>
+
+</tr>
+</table>
+<br>
+
+
 Delve into my personal coding projects, born from my relentless pursuit of knowledge and skills. These creations mark the milestones in my coding journey, each project a testament to my dedication and passion for the craft. 
 
 
